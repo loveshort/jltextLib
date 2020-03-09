@@ -1,0 +1,6 @@
+framework module Pods_JLTestLib_Tests {
+  umbrella header "Pods-JLTestLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
